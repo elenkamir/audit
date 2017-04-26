@@ -23,3 +23,4 @@ https://github.com/nrcarlson/Insertion-Sort-and-Shell-Sort/blob/master/ShellSort
 |205|Переменная используется ровно 1 раз|Inline 205, 220|
 |214, 215, 219|Переменные используются ровно 1 раз|Inline 214, 215, 219|
 
+Инспектор: Миронова Елена.
