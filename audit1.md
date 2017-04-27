@@ -1,4 +1,6 @@
 Автор кода: nrcarlson
+
+
 https://github.com/nrcarlson/Insertion-Sort-and-Shell-Sort/blob/master/ShellSortImp.java
 
 |Место ошибки|Суть ошибки|Рекомендации по устранению|
